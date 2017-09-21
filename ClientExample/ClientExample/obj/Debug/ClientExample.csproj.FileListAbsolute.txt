@@ -1,6 +1,0 @@
-c:\users\jarp-laptop\documents\visual studio 2015\Projects\ClientExample\ClientExample\bin\Debug\ClientExample.exe.config
-c:\users\jarp-laptop\documents\visual studio 2015\Projects\ClientExample\ClientExample\obj\Debug\ClientExample.csprojResolveAssemblyReference.cache
-c:\users\jarp-laptop\documents\visual studio 2015\Projects\ClientExample\ClientExample\bin\Debug\ClientExample.exe
-c:\users\jarp-laptop\documents\visual studio 2015\Projects\ClientExample\ClientExample\bin\Debug\ClientExample.pdb
-c:\users\jarp-laptop\documents\visual studio 2015\Projects\ClientExample\ClientExample\obj\Debug\ClientExample.exe
-c:\users\jarp-laptop\documents\visual studio 2015\Projects\ClientExample\ClientExample\obj\Debug\ClientExample.pdb
